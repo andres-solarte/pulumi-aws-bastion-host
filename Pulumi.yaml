@@ -1,0 +1,3 @@
+name: pulumi-aws-bastion-host
+runtime: nodejs
+description: A minimal AWS TypeScript Pulumi program
